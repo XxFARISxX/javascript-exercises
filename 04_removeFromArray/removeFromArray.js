@@ -1,4 +1,6 @@
-const removeFromArray = function() {
+const removeFromArray = function(input, ...args) {
+
+    
 
 };
 
